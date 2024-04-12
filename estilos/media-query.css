@@ -16,6 +16,7 @@ Telas Grandes: Acima de 1200px
 
     section#login {
         width: 80vw;
+        height: 300px;
     }
 
     section#login > div#imagem {
@@ -40,6 +41,7 @@ Telas Grandes: Acima de 1200px
 
     section#login {
         width: 950px;
+        height: 350px;
     }
     
     section#login > div#imagem {
@@ -49,7 +51,7 @@ Telas Grandes: Acima de 1200px
         background-position: center center;
     }
 
-    section#login > dic#form {
+    section#login > div#form {
         float: left;
         width: 50%;
     }
